@@ -3,7 +3,7 @@ import streamlit as st
 from openai import OpenAI
 from PIL import Image
 
-st.title("PortillosBot")
+st.title("PortilloBot")
 
 # Initialize OpenAI client
 @st.cache_resource
